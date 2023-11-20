@@ -1,3 +1,4 @@
+# Initial code developed by @Genus_Art
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image, ImageDraw, ImageTk
