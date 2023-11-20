@@ -77,7 +77,7 @@ def create_grid():
 
 # Create main window
 root = tk.Tk()
-root.title("Simple Drawing Program")
+root.title("Whiteboard")
 
 # UI elements to modify global variables
 label_rows = tk.Label(root, text="Rows:")
