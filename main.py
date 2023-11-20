@@ -130,3 +130,5 @@ drawings = [Image.new('RGB', (rect_width, rect_height), 'white') for _ in range(
 create_grid()
 
 root.mainloop()
+
+#poggers
