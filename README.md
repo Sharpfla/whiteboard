@@ -1,5 +1,5 @@
-# whiteboard
-Thumbnailing software for animation that resembles using a whiteboard
+## whiteboard
+Thumbnailing software for animation that resembles using a whiteboard. this is a test.
 
 ### development goals
 1. Resizable thumbanail canvases
